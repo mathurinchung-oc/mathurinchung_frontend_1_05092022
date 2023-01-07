@@ -11,7 +11,8 @@ Notez cependant que le format des projets sera différent par la suite ! Vous s
 Pour ce projet, le livrable est très guidé. [Voici la fiche de début de formation à remplir](docs/fiche-de-debut-de-formation.pdf), à compléter à chaque étape du projet !
 
 >
-> :information_source: Vous pouvez éditer cette fiche avec la version gratuite d'Adobe Acrobat ou directement dans votre navigateur. Vous pouvez ensuite enregistrer et télécharger la version remplie.
+> :information_source:  
+> Vous pouvez éditer cette fiche avec la version gratuite d'Adobe Acrobat ou directement dans votre navigateur. Vous pouvez ensuite enregistrer et télécharger la version remplie.
 >
 
 ## Étape n° 1 : participez au webinaire de bienvenue
@@ -23,7 +24,8 @@ Vous n’avez pas encore participé au webinaire de bienvenue proposé par les �
 Pourquoi suivez-vous cette formation, quel est votre **objectif** à long terme ? Peut-être aspirez-vous à changer de **carrière** dans une nouvelle entreprise, ou alors à développer de nouvelles **compétences** au sein de votre métier. Prenez le temps de réfléchir à ce que vous aimeriez que **cette formation apporte à votre parcours professionnel**.
 
 >
-> :information_source: Le meilleur moyen d’atteindre un objectif est de le visualiser : plus vous imaginez où vous voulez aller, plus vous augmentez vos chances d’atteindre votre destination.
+> :information_source:  
+> Le meilleur moyen d’atteindre un objectif est de le visualiser : plus vous imaginez où vous voulez aller, plus vous augmentez vos chances d’atteindre votre destination.
 >
 
 ## Étape n° 3 : découvrez les projets de votre parcours
@@ -36,7 +38,8 @@ Parcourez les projets de votre formation et posez-vous les questions suivantes :
 2. Quels sont les projets qui me semblent les plus difficiles a priori ? Essayez d’identifier les projets qui vous feront le plus sortir de votre zone de confort. Il peut s’agir des projets qui couvrent des compétences ou des outils très éloignés de vos expériences passées.
 
 >
-> :information_source: Votre mentor peut vous aider dans cette étape, profitez-en pour lui demander des précisions sur les projets.
+> :information_source:  
+> Votre mentor peut vous aider dans cette étape, profitez-en pour lui demander des précisions sur les projets.
 >
 
 ## Étape n° 4 : fixez-vous des dates cibles pour terminer chaque projet
@@ -46,13 +49,15 @@ Vous venez de vous inscrire chez OpenClassrooms pour un parcours de formation, e
 Pour commencer du bon pied, nous vous proposons de vous fixer des objectifs dans le temps ! En fonction de votre emploi du temps personnel, du temps que vous souhaitez consacrer à la formation et de vos contraintes, déterminez les dates prévisionnelles de soutenance de chacun de vos projets. Vous pouvez vous appuyer sur ce que vous venez de compléter : les projets qui vous semblent les plus difficiles vous demanderont certainement un peu plus de travail que prévu.
 
 >
-> :information_source: Chaque projet est associé à un nombre d’heures. Celui-ci correspond au temps estimé pour réaliser le projet, mais il faut y ajouter un temps de travail personnel pour réaliser les cours, faire des recherches... On vous conseille de multiplier par deux le temps indiqué pour avoir une estimation fiable. Par exemple, si 20 heures sont indiquées sur le projet, prévoyez 20 heures de travail personnel, soit 40 heures au total. Si OpenClassrooms vous a fourni un planning avec les dates prévisionnelles de soutenance, reprenez simplement les dates de ce tableau telles quelles.
+> :information_source:  
+> Chaque projet est associé à un nombre d’heures. Celui-ci correspond au temps estimé pour réaliser le projet, mais il faut y ajouter un temps de travail personnel pour réaliser les cours, faire des recherches... On vous conseille de multiplier par deux le temps indiqué pour avoir une estimation fiable. Par exemple, si 20 heures sont indiquées sur le projet, prévoyez 20 heures de travail personnel, soit 40 heures au total. Si OpenClassrooms vous a fourni un planning avec les dates prévisionnelles de soutenance, reprenez simplement les dates de ce tableau telles quelles.
 >
 
 Ces dates sont des repères pour vous et votre mentor. Certains étudiants les affichent sur un mur à côté de leur bureau pour se rappeler de ces dates cibles, qui vont rythmer leur formation.
 
 >
-> :information_source: Si vous prenez du retard, la barre de progression sur votre tableau de bord vous l’indiquera. Des actions vous seront proposées pour le rattraper.
+> :information_source:  
+> Si vous prenez du retard, la barre de progression sur votre tableau de bord vous l’indiquera. Des actions vous seront proposées pour le rattraper.
 >
 
 ## Étape n° 5 : définissez un ou plusieurs outil(s) de collaboration avec votre mentor
@@ -64,7 +69,8 @@ Vous allez échanger beaucoup de documents avec votre mentor pendant votre forma
 Pendant votre première session de mentorat, discutez des outils de collaboration avec lesquels vous vous sentez tous les deux le plus à l’aise.
 
 >
-> :information_source: À la fin de chaque session, un questionnaire vous sera envoyé. Merci de nous partager vos retours afin que nous puissions améliorer votre expérience de mentorat.
+> :information_source:  
+> À la fin de chaque session, un questionnaire vous sera envoyé. Merci de nous partager vos retours afin que nous puissions améliorer votre expérience de mentorat.
 >
 
 ## Étape n° 6 : partez à la rencontre des autres étudiants de votre parcours
@@ -84,5 +90,6 @@ Réunissez-les dans un tableau de bord que vous pourrez suivre régulièrement 
 Vous pouvez utiliser un grand nombre d’applications en ligne ou hors ligne telles qu’[Evernote](https://evernote.com/), [Pocket](https://getpocket.com/), [Figgle](http://www.figgleapp.com/), [Feedly](https://feedly.com/), [Twitter](https://twitter.com/) ou même [Google Keep](https://keep.google.com/) pour trier et sauvegarder vos sources.
 
 >
-> :information_source: Pour cette étape, vous devrez réaliser un deuxième livrable à fournir au format PDF : votre outil de veille informationnelle. Ça peut être un export en PDF ou une capture d'écran de votre outil ou bien le lien vers l'outil en ligne utilisé.
+> :information_source:  
+> Pour cette étape, vous devrez réaliser un deuxième livrable à fournir au format PDF : votre outil de veille informationnelle. Ça peut être un export en PDF ou une capture d'écran de votre outil ou bien le lien vers l'outil en ligne utilisé.
 >
